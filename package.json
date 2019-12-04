@@ -1,0 +1,18 @@
+{
+  "name": "mts-phone-call-exporter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Loparev Dmitry <d.loparev@n1.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "cli-progress": "^3.0.0",
+    "csv-writer": "^1.5.0",
+    "html-entities": "^1.2.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "striptags": "^3.1.1"
+  }
+}

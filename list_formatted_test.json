@@ -1,0 +1,707 @@
+{
+  "books": [
+    {
+      "id": 23056,
+      "title": "Искусство действия",
+      "subtitle": "Как преодолеть разрыв между планами и их реализацией",
+      "bookPartLink": "www.mann-ivanov-ferber.ru/assets/media/files-2/iskusstvo-dejstviya/Iskusstvo_deistviya-read_stamped (1).pdf",
+      "badges": [
+        "new"
+      ],
+      "similarBooks": [
+        "14953",
+        "20585",
+        "2065",
+        "15686"
+      ],
+      "cover": {
+        "small": "https://miflib.ru/assets/media/books-images2/iskusstvo-dejstviya/iskusstvo-dejstviya-sm.png",
+        "large": "https://miflib.ru/assets/media/books-images2/iskusstvo-dejstviya/iskusstvo-dejstviya-big.png"
+      },
+      "newCover": "/assets/images/covers/56/23056/%SIZE%-thumb.png",
+      "files": {
+        "ebook": {
+          "pdf": {
+            "url": "https://mguu.miflib.ru/books/download?id=12943",
+            "size": 0
+          },
+          "mobi": {
+            "url": "https://mguu.miflib.ru/books/download?id=12945",
+            "size": 0
+          },
+          "fb2": {
+            "url": "https://mguu.miflib.ru/books/download?id=12946",
+            "size": 0
+          }
+        }
+      },
+      "topSmile": null,
+      "mifUrl": "https://www.mann-ivanov-ferber.ru/books/iskusstvo-dejstviya/",
+      "description": "<p><strong>Опираясь на&nbsp;глубокое понимание стратегии ведения бизнеса и&nbsp;военной истории, Стивен Бангей доказывает, что создание великой организации и&nbsp;разработка сильной стратегии&nbsp;&mdash; это искусство, которое можно освоить, а&nbsp;не&nbsp;наука.</strong></p>\r\n<p>Для того, чтобы разрабатывать эффективные стратегии и&nbsp;создавать организации, способные их&nbsp;реализовать, необходимо изучить модели, доказавшие свою эффективность в&nbsp;прошлом, и&nbsp;развить необходимые навыки на&nbsp;практике. На&nbsp;основе исследований Прусской армии XIX&nbsp;века, которая умела действовать в&nbsp;максимально непредсказуемой обстановке боевых действий и&nbsp;добиваться высоких результатов, Стивен Бангей написал книгу, которая поможет создавать наиболее продуктивные команды и&nbsp;организации в&nbsp;современном мире.</p>\r\n<p>&laquo;Искусство действия&raquo;&nbsp;&mdash; это руководство по&nbsp;стратегии, которое рассчитано на&nbsp;современные условия, но&nbsp;опирается на&nbsp;идеи прошлого.</p>",
+      "stickers": [
+        {
+          "text": "Как стратегия ведения боя помогает в&nbsp;бизнесе",
+          "style": "sticker-purple"
+        },
+        {
+          "text": "Научит действовать в&nbsp;непредсказуемой обстановке",
+          "style": "sticker-lightblue"
+        }
+      ],
+      "quotes": [],
+      "experts": [],
+      "photos": [],
+      "videos": [],
+      "spreads": [],
+      "authors": [
+        {
+          "name": "Стивен Бангей",
+          "photo": "https://miflib.ru/assets/images/experts/ICO-5.png",
+          "info": "<p><strong>Стивен Бангей</strong> &mdash; бизнес-консультант, преподаватель менеджмента, военный историк и автор нескольких книг по истории. Почти 20 лет проработал в консалтинговой компании BCG.</p>"
+        }
+      ],
+      "discountUrl": "https://www.mann-ivanov-ferber.ru/books/iskusstvo-dejstviya/#/?tween-paperbook-promo=aj2s7t",
+      "downloads": 5
+    },
+    {
+      "id": 24082,
+      "title": "Мода и гении",
+      "subtitle": "Костюмные биографии Леонардо да Винчи, Екатерины II, Петра Чайковского, Оскара Уайльда, Юрия Анненкова, Майи Плисецкой",
+      "bookPartLink": "www.mann-ivanov-ferber.ru/assets/media/files-2/moda-i-genii/moda-i-genii-read_stamped.pdf",
+      "badges": [
+        "new"
+      ],
+      "similarBooks": [
+        "22679",
+        "23090",
+        "23572",
+        "19681",
+        "21657",
+        "19232"
+      ],
+      "cover": {
+        "small": "https://miflib.ru/assets/media/books-images2/moda-i-genii/moda-i-genii-sm.png",
+        "large": "https://miflib.ru/assets/media/books-images2/moda-i-genii/moda-i-genii-big.png"
+      },
+      "newCover": "/assets/images/covers/82/24082/%SIZE%-thumb.png",
+      "files": {
+        "ebook": {
+          "pdf": {
+            "url": "https://mguu.miflib.ru/books/download?id=13069",
+            "size": 0
+          },
+          "epub": {
+            "url": "https://mguu.miflib.ru/books/download?id=13070",
+            "size": 0
+          },
+          "mobi": {
+            "url": "https://mguu.miflib.ru/books/download?id=13071",
+            "size": 0
+          },
+          "fb2": {
+            "url": "https://mguu.miflib.ru/books/download?id=13072",
+            "size": 0
+          }
+        },
+        "audiobook": {
+          "m4b": {
+            "url": "https://mguu.miflib.ru/books/download?id=13095",
+            "size": 0
+          },
+          "zip": {
+            "url": "https://mguu.miflib.ru/books/download?id=13096",
+            "size": 1568650312
+          },
+          "mp3": [
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13097",
+              "size": 15411180,
+              "duration": "367",
+              "title": "Предисловие"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13098",
+              "size": 15632745,
+              "duration": "373",
+              "title": "Леонардо и мода ренессанса"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13099",
+              "size": 112796786,
+              "duration": "2802",
+              "title": "Мода и порок. Первые шаги"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13100",
+              "size": 179272074,
+              "duration": "4464",
+              "title": "Леонардо-кутюрье"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13101",
+              "size": 15262849,
+              "duration": "364",
+              "title": "Екатерина II: Минерва в модных доспехах"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13102",
+              "size": 46057013,
+              "duration": "1133",
+              "title": "Форменные платья императрицы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13103",
+              "size": 12731023,
+              "duration": "300",
+              "title": "Минерва торжествующая"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13104",
+              "size": 79285827,
+              "duration": "1964",
+              "title": "Великосветские травести и «маскерады»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13105",
+              "size": 46877255,
+              "duration": "1154",
+              "title": "«Трофейная» мода Екатерины II"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13106",
+              "size": 58331429,
+              "duration": "1440",
+              "title": "Русский стиль как пропаганда"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13107",
+              "size": 15757091,
+              "duration": "376",
+              "title": "Декларация о военно-политических намерениях"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13108",
+              "size": 6615257,
+              "duration": "147",
+              "title": "Костюмы и мода в жизни Петра Чайковского"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13109",
+              "size": 37757461,
+              "duration": "926",
+              "title": "«Стеклянный мальчик» в модном серебре"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13110",
+              "size": 30221554,
+              "duration": "738",
+              "title": "«Чижик-пыжик»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13111",
+              "size": 49925195,
+              "duration": "1230",
+              "title": "Двойная жизнь"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13112",
+              "size": 31555893,
+              "duration": "771",
+              "title": "Модная бедность"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13113",
+              "size": 39313211,
+              "duration": "965",
+              "title": "«Полуфранцуз»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13114",
+              "size": 24935435,
+              "duration": "605",
+              "title": "Композиторский маскарад"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13115",
+              "size": 20311744,
+              "duration": "490",
+              "title": "Любимые вещицы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13116",
+              "size": 36627835,
+              "duration": "898",
+              "title": "«Редкий» Чайковский"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13117",
+              "size": 11882532,
+              "duration": "279",
+              "title": "P. S."
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13118",
+              "size": 13094675,
+              "duration": "309",
+              "title": "Оскар Уайльд: драма в модных тонах"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13119",
+              "size": 54356651,
+              "duration": "1341",
+              "title": "Экспозиция. Пурпур, лилии, виолончель"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13120",
+              "size": 48558488,
+              "duration": "1196",
+              "title": "Завязка. Король эстетов"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13121",
+              "size": 71642384,
+              "duration": "1773",
+              "title": "Шорох карандашей в блокнотах"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13122",
+              "size": 92193423,
+              "duration": "2287",
+              "title": "Кульминация. «С. 3.3»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13123",
+              "size": 122963574,
+              "duration": "3056",
+              "title": "Эпилог. Уайльдианцы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13124",
+              "size": 5224504,
+              "duration": "113",
+              "title": "Юрий Анненков: революция, мода, кино"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13125",
+              "size": 102914125,
+              "duration": "2555",
+              "title": "Анненков и монокль"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13126",
+              "size": 158015715,
+              "duration": "3932",
+              "title": "Мода и революция"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13127",
+              "size": 85996129,
+              "duration": "2132",
+              "title": "Как он одевал звезд"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13128",
+              "size": 110005791,
+              "duration": "2732",
+              "title": "С Максом Офюльсом"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13129",
+              "size": 10027902,
+              "duration": "233",
+              "title": "Майя Плисецкая: прима ассолюты моды"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13130",
+              "size": 33705307,
+              "duration": "825",
+              "title": "Техника и свобода"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13131",
+              "size": 17058974,
+              "duration": "409",
+              "title": "Чувство стиля"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13132",
+              "size": 22090178,
+              "duration": "534",
+              "title": "Бунтарская элегантность"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13133",
+              "size": 16564782,
+              "duration": "396",
+              "title": "Шуба для Катанянов и другие «звери»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13134",
+              "size": 26625033,
+              "duration": "648",
+              "title": "Великая собирательница"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13135",
+              "size": 17425756,
+              "duration": "418",
+              "title": "Волшебный нейлон-эластик"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13136",
+              "size": 19243860,
+              "duration": "463",
+              "title": "На улице Варенн"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13137",
+              "size": 46316159,
+              "duration": "1140",
+              "title": "Мундир от Шанель и другие сюрпризы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13138",
+              "size": 17846829,
+              "duration": "428",
+              "title": "«Красная Надя»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13139",
+              "size": 29368927,
+              "duration": "716",
+              "title": "Серебряные любимцы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13140",
+              "size": 35121098,
+              "duration": "860",
+              "title": "В пространстве Кардена"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13141",
+              "size": 37014442,
+              "duration": "907",
+              "title": "Эзопов язык моды"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13142",
+              "size": 33432531,
+              "duration": "818",
+              "title": "Штрихи к красоте"
+            }
+          ],
+          "ogg": [
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13143",
+              "size": 4374368,
+              "duration": "367",
+              "title": "Предисловие"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13144",
+              "size": 4443172,
+              "duration": "373",
+              "title": "Леонардо и мода ренессанса"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13145",
+              "size": 33590451,
+              "duration": "2802",
+              "title": "Мода и порок. Первые шаги"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13146",
+              "size": 53006615,
+              "duration": "4464",
+              "title": "Леонардо-кутюрье"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13147",
+              "size": 4314508,
+              "duration": "364",
+              "title": "Екатерина II: Минерва в модных доспехах"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13148",
+              "size": 13664528,
+              "duration": "1133",
+              "title": "Форменные платья императрицы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13149",
+              "size": 3654851,
+              "duration": "300",
+              "title": "Минерва торжествующая"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13150",
+              "size": 23961954,
+              "duration": "1964",
+              "title": "Великосветские травести и «маскерады»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13151",
+              "size": 14276701,
+              "duration": "1154",
+              "title": "«Трофейная» мода Екатерины II"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13152",
+              "size": 17986024,
+              "duration": "1440",
+              "title": "Русский стиль как пропаганда"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13153",
+              "size": 4655892,
+              "duration": "376",
+              "title": "Декларация о военно-политических намерениях"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13154",
+              "size": 1799306,
+              "duration": "147",
+              "title": "Костюмы и мода в жизни Петра Чайковского"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13155",
+              "size": 11395715,
+              "duration": "926",
+              "title": "«Стеклянный мальчик» в модном серебре"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13156",
+              "size": 9051377,
+              "duration": "738",
+              "title": "«Чижик-пыжик»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13157",
+              "size": 15254366,
+              "duration": "1230",
+              "title": "Двойная жизнь"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13158",
+              "size": 9534104,
+              "duration": "771",
+              "title": "Модная бедность"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13159",
+              "size": 12083838,
+              "duration": "965",
+              "title": "«Полуфранцуз»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13160",
+              "size": 7598188,
+              "duration": "605",
+              "title": "Композиторский маскарад"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13161",
+              "size": 6079410,
+              "duration": "490",
+              "title": "Любимые вещицы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13162",
+              "size": 11240042,
+              "duration": "898",
+              "title": "«Редкий» Чайковский"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13163",
+              "size": 3468214,
+              "duration": "279",
+              "title": "P. S."
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13164",
+              "size": 3749072,
+              "duration": "309",
+              "title": "Оскар Уайльд: драма в модных тонах"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13165",
+              "size": 16611678,
+              "duration": "1341",
+              "title": "Экспозиция. Пурпур, лилии, виолончель"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13166",
+              "size": 14770091,
+              "duration": "1196",
+              "title": "Завязка. Король эстетов"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13167",
+              "size": 21882424,
+              "duration": "1773",
+              "title": "Шорох карандашей в блокнотах"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13168",
+              "size": 28151294,
+              "duration": "2287",
+              "title": "Кульминация. «С. 3.3»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13169",
+              "size": 37639126,
+              "duration": "3056",
+              "title": "Эпилог. Уайльдианцы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13170",
+              "size": 1359384,
+              "duration": "113",
+              "title": "Юрий Анненков: революция, мода, кино"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13171",
+              "size": 31503305,
+              "duration": "2555",
+              "title": "Анненков и монокль"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13172",
+              "size": 48888381,
+              "duration": "3932",
+              "title": "Мода и революция"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13173",
+              "size": 26700820,
+              "duration": "2132",
+              "title": "Как он одевал звезд"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13174",
+              "size": 33569994,
+              "duration": "2732",
+              "title": "С Максом Офюльсом"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13175",
+              "size": 2803622,
+              "duration": "233",
+              "title": "Майя Плисецкая: прима ассолюты моды"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13176",
+              "size": 10162057,
+              "duration": "825",
+              "title": "Техника и свобода"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13177",
+              "size": 5008905,
+              "duration": "409",
+              "title": "Чувство стиля"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13178",
+              "size": 6651345,
+              "duration": "534",
+              "title": "Бунтарская элегантность"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13179",
+              "size": 4611750,
+              "duration": "396",
+              "title": "Шуба для Катанянов и другие «звери»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13180",
+              "size": 7603113,
+              "duration": "648",
+              "title": "Великая собирательница"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13181",
+              "size": 4885688,
+              "duration": "418",
+              "title": "Волшебный нейлон-эластик"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13182",
+              "size": 5486569,
+              "duration": "463",
+              "title": "На улице Варенн"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13183",
+              "size": 13460955,
+              "duration": "1140",
+              "title": "Мундир от Шанель и другие сюрпризы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13184",
+              "size": 5077324,
+              "duration": "428",
+              "title": "«Красная Надя»"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13185",
+              "size": 8545399,
+              "duration": "716",
+              "title": "Серебряные любимцы"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13186",
+              "size": 10255800,
+              "duration": "860",
+              "title": "В пространстве Кардена"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13187",
+              "size": 10770766,
+              "duration": "907",
+              "title": "Эзопов язык моды"
+            },
+            {
+              "url": "https://mguu.miflib.ru/books/download?id=13188",
+              "size": 9672424,
+              "duration": "818",
+              "title": "Штрихи к красоте"
+            }
+          ]
+        }
+      },
+      "topSmile": null,
+      "mifUrl": "https://www.mann-ivanov-ferber.ru/books/moda-i-genii/",
+      "description": "<p>В&nbsp;книге представлены шесть костюмных биографий известнейших людей мира искусства, оказавших большое влияние не&nbsp;только на&nbsp;культуру, но&nbsp;и&nbsp;на&nbsp;моду своего времени и&nbsp;современную. Шесть глав&nbsp;&mdash; это шесть &laquo;костюмных&raquo; биографий гениев из&nbsp;разных сфер&nbsp;&mdash; изобразительного искусства, музыки, литературы, кино, балета... От&nbsp;Леонардо да&nbsp;Винчи до&nbsp;Майи Плисецкой. Их&nbsp;жизнь представлена сквозь призму костюмов и&nbsp;культуры повседневности. Книга написана в&nbsp;том числе на&nbsp;основе архивных неопубликованных материалов.</p>\r\n<h3>Фишки книги</h3>\r\n<ul>\r\n<li>\r\n<p>Биографии известнейших людей из&nbsp;мира искусства сквозь призму моды и&nbsp;культуры.</p>\r\n</li>\r\n<li>\r\n<p>Ранее неопубликованные материалы из&nbsp;личного архива автора.</p>\r\n</li>\r\n<li>\r\n<p>От&nbsp;автора-историка моды и&nbsp;искусствоведа.</p>\r\n</li>\r\n</ul>\r\n<h3>От&nbsp;автора</h3>\r\n<p>Это немного личная книга. Во-первых, потому что она о&nbsp;костюме. В&nbsp;визуальной культуре нет ничего более осязаемого, тактильного, интимного. Костюм&nbsp;&mdash; слепок тела, верный отпечаток жизни.</p>\r\n<p>Новорожденного заворачивают в&nbsp;пеленки&nbsp;&mdash; это его первый наряд. Одежда повторяет пропорции растущего человека, делает комплименты фигуре, скрывает недостатки, нагло лжет. Костюм заставит влюбиться или ненавидеть, сделает звездой или изгоем, объявит войну или признает поражение. С&nbsp;его помощью можно говорить о&nbsp;самом личном, сохраняя благородное молчание. Костюм очень близок человеку. Любимое жилище, предметы, памятные вещицы, без которых, кажется, не&nbsp;обойтись, окружают нас на&nbsp;почтительном расстоянии. Мы&nbsp;не&nbsp;можем &laquo;надеть&raquo; и&nbsp;&laquo;носить&raquo; самых близких нам людей. Даже между пылкими любовниками всегда есть прохладная дистанция.</p>\r\n<p>Костюм болеет и&nbsp;стареет вместе с&nbsp;человеком. Хоронят тоже в&nbsp;костюме&nbsp;&mdash; традиционном, случайном, любимом или особенном, придуманном виновником печальных торжеств еще при жизни. По&nbsp;оставшимся от&nbsp;усопшего нарядам восстанавливают его биографию, составляют медицинскую карту недугов и&nbsp;пороков. В&nbsp;них можно нащупать всё самое тайное, что хозяин старательно скрывал.</p>\r\n<p>Костюм интимен, но&nbsp;ему претит вульгарность. Между ним и&nbsp;владельцем все-таки есть расстояние&nbsp;&mdash; не&nbsp;физическое, но&nbsp;историческое. Историческое расстояние превращает предметы обихода, наряды и&nbsp;даже нижнее белье в&nbsp;интереснейшие биографические документы. Они позволяют изучать повседневную жизнь и&nbsp;творчество гениев без риска соскользнуть в&nbsp;пошлость. В&nbsp;этой книге мне захотелось представить их&nbsp;костюмные биографии и&nbsp;дать возможность говорить&nbsp;&mdash; не&nbsp;архивным бумагам, а&nbsp;вещам, настоящим и&nbsp;отображенным на&nbsp;картинах, фотографиях, кинопленках.</p>\r\n<p>Дягилев, Пушкин, Чайковский, Ахматова, Лифарь, Троцкий, Анненков, Маяковский, Брик, Рахманинов, Эрте, Ив&nbsp;Сен-Лоран, Плисецкая, Бежар... Эти имена часто звучали во&nbsp;время неспешных полуночных семейных бесед, приправленных вкуснейшими деталями, байками и&nbsp;анекдотами, которыми я&nbsp;тихо напитывалась, ощущая гениев кончиками пальцев. Их&nbsp;любимые вещицы и&nbsp;костюмы, к&nbsp;которым мне удалось прикоснуться во&nbsp;время работы над книгой, превратили далеких гениев в&nbsp;живых людей&nbsp;&mdash; осязаемых, близких, почти своих.</p>\r\n<h3>Для кого эта книга</h3>\r\n<p>Для тех, кому интересны биографии известных личностей и&nbsp;история моды.</p>",
+      "stickers": [
+        {
+          "text": "Для ценителей моды и искусства ",
+          "style": "sticker-blue"
+        },
+        {
+          "text": "Мода: от&nbsp;ренессанса до&nbsp;современного мира",
+          "style": "sticker-green"
+        },
+        {
+          "text": "На&nbsp;основе архивных неопубликованных ранее материалов",
+          "style": "sticker-yellow"
+        }
+      ],
+      "quotes": [],
+      "experts": [],
+      "photos": [],
+      "videos": [],
+      "spreads": [],
+      "authors": [
+        {
+          "name": "Ольга Хорошилова",
+          "photo": "https://miflib.ru/assets/media/authors/olga-xoroshilova.png",
+          "info": "<p>Ольга Хорошилова&nbsp;&mdash; кандидат искусствоведения, доцент Санкт-Петербургского государственного университета промышленных технологий и&nbsp;дизайна, историк искусства и&nbsp;костюма. Автор книг: &laquo;Всадники особого назначения&raquo; (2013), &laquo;Костюм и&nbsp;мода Российской империи. Эпоха Николая II&raquo; (2013), &laquo;Костюм и&nbsp;мода Российской империи. Эпоха Александра II&nbsp;и&nbsp;Александра III&raquo; (2015), &laquo;Молодые и&nbsp;красивые. Мода <nobr>1920-х</nobr> годов&raquo; (2016), &laquo;Война и&nbsp;мода. От&nbsp;Петра I&nbsp;до&nbsp;Путина&raquo; (2017)</p>"
+        }
+      ],
+      "discountUrl": "https://www.mann-ivanov-ferber.ru/books/moda-i-genii/#/?tween-paperbook-promo=aj2s7t",
+      "downloads": 3
+    }
+  ],
+  "total": 879
+}
